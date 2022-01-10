@@ -5,4 +5,4 @@ Estou realizando um curso de Java e um dos cursos da carga horária é o de git/
 Desafio de projeto sobre git/github
 
 ## Links úteis
-Sintaxe básica do Markdown(https://www.markdownguide.org/)
+(Sintaxe básica do Markdown)(https://www.markdownguide.org/)
