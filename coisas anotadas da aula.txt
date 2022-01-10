@@ -1,0 +1,14 @@
+md = Markdown, linguagem de marcação do github
+
+arquivos criados no github para o git => git clone (adicionar o link)
+
+cd =  entra na pasta desejada
+
+git status = mostra o status
+
+git add . ou git ad -A = adiciona todos os arquivos do/no computador local
+
+git commit -m "coloca a mensagem e atualiza no github o que foi feito no git"
+
+(para mandar para a nuvem é necessário dar um push)
+git push origin main
